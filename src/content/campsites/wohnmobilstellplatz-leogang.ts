@@ -11,8 +11,7 @@ const wohnmobilstellplatzLeogang: CampsiteConfig = {
   brandKind: "Wohnmobilstellplatz am Bauernhof",
   regionLong: "Pinzgau · Salzburger Land · Österreich",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Fünf Plätze vor den Leoganger Steinbergen",
   claimEmphasis: "Leoganger Steinbergen",
