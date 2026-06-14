@@ -78,9 +78,9 @@ const wohnmobilstellplatzLeogang: CampsiteConfig = {
       "Fünf eingezäunte Parzellen mit 70–100 m², Strom, TV-Anschluss und WLAN — dazu ein geheizter Sanitärbereich im Bauernhaus. Alles inklusive, alles nah.",
     features: [
       {
-        title: "Strom, TV & WLAN am Platz",
-        text: "Jede Parzelle hat Stromanschluss mit 12 Ampere, TV-Anschluss, Brauchwasseranschluss und kostenloses WLAN — dein Wohnmobil ist sofort versorgt.",
-        image: { src: `${IMG}/amenity-cfeb1d612e.webp`, alt: "Strom- und TV-Anschlusskasten an der Parzelle am Camperplatzl" },
+        title: "Eingezäunte Parzellen",
+        text: "Jeder der fünf Plätze ist einzeln eingezäunt und liegt in der ruhigen Hofwiese — viel Abstand zum Nachbarn statt Stellplatz an Stellplatz.",
+        image: { src: `${IMG}/amenity-9c83c413a3.webp`, alt: "Eingezäunte Stellplätze mit Stromsäulen am Camperplatzl in Leogang" },
       },
       {
         title: "Geheizte Duschen & WC",
@@ -88,9 +88,9 @@ const wohnmobilstellplatzLeogang: CampsiteConfig = {
         image: { src: `${IMG}/amenity-6923a581a4.webp`, alt: "Geheizte Dusche im Sanitärbereich des Camperplatzl Leogang" },
       },
       {
-        title: "Eingezäunte Parzellen",
-        text: "Jeder der fünf Plätze ist einzeln eingezäunt und liegt in der ruhigen Hofwiese — viel Abstand zum Nachbarn statt Stellplatz an Stellplatz.",
-        image: { src: `${IMG}/amenity-9c83c413a3.webp`, alt: "Eingezäunte Stellplätze mit Stromsäulen am Camperplatzl in Leogang" },
+        title: "Strom, TV & WLAN am Platz",
+        text: "Jede Parzelle hat Stromanschluss mit 12 Ampere, TV-Anschluss, Brauchwasseranschluss und kostenloses WLAN — dein Wohnmobil ist sofort versorgt.",
+        image: { src: `${IMG}/amenity-6bf33b2012.webp`, alt: "Hölzerne Stromsäule mit Anschluss an einer Parzelle am Camperplatzl" },
       },
       {
         title: "Liegewiese mit Panorama",
@@ -167,7 +167,7 @@ const wohnmobilstellplatzLeogang: CampsiteConfig = {
       { src: `${IMG}/amenity-e84c261ce7.webp`, alt: "Stellplätze mit Blick auf das Steinerne Meer am Camperplatzl" },
       { src: `${IMG}/amenity-29264cbce1.webp`, alt: "Zufahrt zum Camperplatzl mit Findling und Bergpanorama" },
       { src: `${IMG}/amenity-6e4e9e698b.webp`, alt: "Handgeschnitztes Bad-Stube-Schild des Camperplatzl Leogang" },
-      { src: `${IMG}/amenity-6bf33b2012.webp`, alt: "Hölzerne Stromsäule an einer Parzelle des Camperplatzl" },
+      { src: `${IMG}/amenity-cfeb1d612e.webp`, alt: "Strom- und TV-Anschluss an einer Parzelle des Camperplatzl" },
     ],
   },
 
