@@ -167,7 +167,7 @@ const wohnmobilstellplatzLeogang: CampsiteConfig = {
       { src: `${IMG}/amenity-e84c261ce7.webp`, alt: "Stellplätze mit Blick auf das Steinerne Meer am Camperplatzl" },
       { src: `${IMG}/amenity-29264cbce1.webp`, alt: "Zufahrt zum Camperplatzl mit Findling und Bergpanorama" },
       { src: `${IMG}/amenity-6e4e9e698b.webp`, alt: "Handgeschnitztes Bad-Stube-Schild des Camperplatzl Leogang" },
-      { src: `${IMG}/amenity-cfeb1d612e.webp`, alt: "Strom- und TV-Anschluss an einer Parzelle des Camperplatzl" },
+      { src: `${IMG}/amenity-c991400fd5.webp`, alt: "Geräumige Holzkabinen mit geschnitztem Herz im Sanitärbereich des Camperplatzl" },
     ],
   },
 
