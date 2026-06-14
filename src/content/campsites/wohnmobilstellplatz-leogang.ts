@@ -79,32 +79,32 @@ const wohnmobilstellplatzLeogang: CampsiteConfig = {
     features: [
       {
         title: "Eingezäunte Parzellen",
-        text: "Jeder der fünf Plätze ist einzeln eingezäunt und liegt in der ruhigen Hofwiese — viel Abstand zum Nachbarn statt Stellplatz an Stellplatz.",
+        text: "Jeder der fünf Plätze ist einzeln eingezäunt und liegt in der Hofwiese — viel Abstand zum Nachbarn inklusive.",
         image: { src: `${IMG}/amenity-9c83c413a3.webp`, alt: "Eingezäunte Stellplätze mit Stromsäulen am Camperplatzl in Leogang" },
       },
       {
         title: "Geheizte Duschen & WC",
-        text: "Im geheizten Sanitärbereich findest du je Dusche, Waschtisch und WC für Damen und Herren — Kalt- und Warmwasser sind im Stellplatzpreis dabei.",
+        text: "Im geheizten Sanitärbereich gibt es Dusche, Waschtisch und WC für Damen und Herren — Warmwasser ist im Preis dabei.",
         image: { src: `${IMG}/amenity-6923a581a4.webp`, alt: "Geheizte Dusche im Sanitärbereich des Camperplatzl Leogang" },
       },
       {
         title: "Strom, TV & WLAN am Platz",
-        text: "Jede Parzelle hat Stromanschluss mit 12 Ampere, TV-Anschluss, Brauchwasseranschluss und kostenloses WLAN — dein Wohnmobil ist sofort versorgt.",
+        text: "Jede Parzelle hat 12-Ampere-Strom, TV-Anschluss, Brauchwasser und kostenloses WLAN — alles sofort verfügbar.",
         image: { src: `${IMG}/amenity-6bf33b2012.webp`, alt: "Hölzerne Stromsäule mit Anschluss an einer Parzelle am Camperplatzl" },
       },
       {
         title: "Liegewiese mit Panorama",
-        text: "Die angrenzende Liegewiese mit Blick auf die Leoganger Steinberge lädt zum Energietanken ein — der Kraftplatz für Körper, Geist und Seele.",
+        text: "Die Liegewiese mit Blick auf die Leoganger Steinberge lädt zum Energietanken ein — ein Kraftplatz für Körper und Geist.",
         image: { src: `${IMG}/amenity-9a172052a4.webp`, alt: "Liegewiese mit Panoramablick über das Tal von Leogang" },
       },
       {
         title: "Bad Stube im Bauernhof",
-        text: "Der Sanitärbereich liegt nur 40 Meter von den Parzellen im Bauernhaus — Grauwasser, Chemie-WC und Müll entsorgst du hier kostenlos.",
+        text: "Der Sanitärbereich liegt 40 Meter von den Parzellen entfernt — Grauwasser, Chemie-WC und Müll entsorgst du kostenlos.",
         image: { src: `${IMG}/amenity-e81dc5db2b.webp`, alt: "Eingang zur Bad Stube im Bauernhaus des Camperplatzl" },
       },
       {
         title: "Ruhige Alleinlage",
-        text: "Am Ortsrand von Leogang verbringst du ruhige Nächte, windgeschützt und eingezäunt — das Ortszentrum erreichst du in rund zehn Gehminuten.",
+        text: "Am Ortsrand von Leogang verbringst du ruhige, windgeschützte Nächte — das Ortszentrum liegt rund zehn Gehminuten entfernt.",
         image: { src: `${IMG}/amenity-5b6ade849c.webp`, alt: "Ruhige Zufahrt zum Camperplatzl mit Bergpanorama" },
       },
     ],
@@ -117,22 +117,22 @@ const wohnmobilstellplatzLeogang: CampsiteConfig = {
     items: [
       {
         title: "Epic Bikepark Leogang",
-        text: "Den weltbekannten Bikepark und unzählige Mountainbike-Touren erreichst du direkt mit dem Rad — der Skicircus-Einstieg liegt nur 2,5 km entfernt.",
+        text: "Den weltbekannten Bikepark und unzählige MTB-Touren erreichst du direkt mit dem Rad — der Skicircus-Einstieg ist 2,5 km entfernt.",
         image: { src: `${IMG}/activity-cc5291f6cb.webp`, alt: "Mountainbiker auf einer Bergtour in der Region Saalfelden Leogang" },
       },
       {
         title: "Wandern in den Steinbergen",
-        text: "Rund um Leogang starten unendliche Wanderwege — von der nächsten Alm mit regionalen Schmankerln trennen dich nur rund 30 Gehminuten.",
+        text: "Rund um Leogang starten unzählige Wanderwege — zur nächsten Alm mit regionalen Schmankerln sind es rund 30 Gehminuten.",
         image: { src: `${IMG}/activity-45da7fb0f9.webp`, alt: "Familie beim Wandern mit Bergblick in der Region Leogang" },
       },
       {
         title: "Sommerrodeln am Biberg",
-        text: "Mit der Leogang Card fährst du unbegrenzt zur Sommerrodelbahn und gondelst gratis auf die Berge — Erlebnisbäder und Sauna sind inklusive.",
+        text: "Mit der Leogang Card fährst du gratis zur Sommerrodelbahn, auf die Berge und in die Erlebnisbäder.",
         image: { src: `${IMG}/amenity-6d6218b71d.webp`, alt: "Sommerrodelbahn am Biberg in der Region Saalfelden Leogang" },
       },
       {
         title: "Kräuter & Bauernherbst",
-        text: "Der Pinzgau hat eine fünfte Jahreszeit: den Bauernherbst mit Almabtrieben, Handwerk und Kräuterworkshops von Ende August bis Anfang November.",
+        text: "Der Bauernherbst von Ende August bis November bringt Almabtriebe, Handwerk und Kräuterworkshops in die Region.",
         image: { src: `${IMG}/amenity-f804f7f966.webp`, alt: "Kräuterworkshop im Freien in der Region Leogang" },
       },
     ],
